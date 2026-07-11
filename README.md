@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0806-number-of-lines-to-write-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0806-number-of-lines-to-write-string) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0883-projection-area-of-3d-shapes) |
 ## Math
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0883-projection-area-of-3d-shapes) |
+## String
+|  |
+| ------- |
+| [0806-number-of-lines-to-write-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0806-number-of-lines-to-write-string) |
 <!---LeetCode Topics End-->
