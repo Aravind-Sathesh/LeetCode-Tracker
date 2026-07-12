@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0062-unique-paths) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0883-projection-area-of-3d-shapes) |
 ## Geometry
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
