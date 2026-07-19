@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0790-domino-and-tromino-tiling) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Combinatorics
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Brainteaser
 |  |
 | ------- |
