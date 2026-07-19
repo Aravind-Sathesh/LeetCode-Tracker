@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0062-unique-paths) |
+| [0790-domino-and-tromino-tiling](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0790-domino-and-tromino-tiling) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Combinatorics
