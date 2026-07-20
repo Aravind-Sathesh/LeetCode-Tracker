@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0806-number-of-lines-to-write-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0806-number-of-lines-to-write-string) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0670-maximum-swap) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3674-minimum-operations-to-equalize-array) |
+## Backtracking
+|  |
+| ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2375-construct-smallest-number-from-di-string) |
+## Stack
+|  |
+| ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
