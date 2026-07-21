@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2375-construct-smallest-number-from-di-string) |
+## Sorting
+|  |
+| ------- |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2952-minimum-number-of-coins-to-be-added) |
 <!---LeetCode Topics End-->
