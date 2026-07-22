@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0806-number-of-lines-to-write-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0806-number-of-lines-to-write-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 ## Greedy
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Dynamic Programming
 |  |
