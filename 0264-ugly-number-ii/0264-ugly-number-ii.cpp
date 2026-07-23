@@ -1,6 +1,9 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
+        if(n <= 0) return 0;
+        if(n == 1) return 1;
+        
         vector <int> dp (n);
         int x=0 , y=0 , z=0;
         dp[0] = 1;
@@ -13,7 +16,7 @@ public:
             if (nxt == dp[y]*3) y++;
             if (nxt == dp[z]*5) z++;
         }
-        
+
         return dp[n-1];
     }
 };
