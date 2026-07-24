@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1306-jump-game-iii](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1306-jump-game-iii) |
+| [1765-map-of-highest-peak](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1765-map-of-highest-peak) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3301-maximize-the-total-height-of-unique-towers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0883-projection-area-of-3d-shapes) |
+| [1765-map-of-highest-peak](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1765-map-of-highest-peak) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## String
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1306-jump-game-iii) |
+| [1765-map-of-highest-peak](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1765-map-of-highest-peak) |
 ## Hash Table
 |  |
 | ------- |
