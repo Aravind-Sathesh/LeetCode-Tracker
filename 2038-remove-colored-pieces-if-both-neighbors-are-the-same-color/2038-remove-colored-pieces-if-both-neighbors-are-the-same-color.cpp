@@ -26,8 +26,6 @@ public:
         for (int cA : A) if (cA >=3 ) countA+=(cA-2);
         for (int cB : B) if (cB >=3 ) countB+=(cB-2);
 
-        cout << countA << " " << countB << endl;
-
         return (countA+countB>0 ? countA>countB : false);
 
     }
