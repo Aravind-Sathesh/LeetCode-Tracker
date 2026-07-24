@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1306-jump-game-iii](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1306-jump-game-iii) |
 | [1765-map-of-highest-peak](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1765-map-of-highest-peak) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3301-maximize-the-total-height-of-unique-towers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Binary Search
+|  |
+| ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
