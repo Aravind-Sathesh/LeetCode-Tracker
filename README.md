@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0583-delete-operation-for-two-strings) |
 | [0806-number-of-lines-to-write-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0806-number-of-lines-to-write-string) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0670-maximum-swap) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2375-construct-smallest-number-from-di-string) |
