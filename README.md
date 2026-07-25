@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0704-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0806-number-of-lines-to-write-string) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0883-projection-area-of-3d-shapes) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -115,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/0704-binary-search) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
