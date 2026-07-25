@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3457-eat-pizzas](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3457-eat-pizzas) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Math
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3457-eat-pizzas](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3457-eat-pizzas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3457-eat-pizzas](https://github.com/Aravind-Sathesh/LeetCode-Tracker/tree/master/3457-eat-pizzas) |
 ## Depth-First Search
 |  |
 | ------- |
